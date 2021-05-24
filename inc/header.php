@@ -30,68 +30,68 @@
         <header class="header">
             <nav class="navbar navbar-expand-lg navbar-light bg">
                 <div class="container-fluid">
-                  <a class="navbar-brand" href="#"><img src="images/logo.gif" alt="Comilla University"></a>
+                  <a class="navbar-brand" href="index.php"><img src="images/logo.gif" alt="Comilla University"></a>
                   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                   </button>
                   <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                       <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                        <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                       </li>
                       <li class="nav-item dropdown" id="myDropdown">
-                        <a class="nav-link dropdown-toggle " data-bs-toggle="dropdown" href="#">About Us</a>
+                        <a class="nav-link dropdown-toggle " data-bs-toggle="dropdown" href="page.php">About Us</a>
                         <ul class="dropdown-menu">
-                          <li><a class="dropdown-item" href="#"> About conference </a></li>
-                          <li><a class="dropdown-item" href="#">About University</a></li>
+                          <li><a class="dropdown-item" href="page.php"> About conference </a></li>
+                          <li><a class="dropdown-item" href="page.php">About University</a></li>
                         </ul>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="#">Speakers</a>
+                        <a class="nav-link" href="page.php">Speakers</a>
                       </li>
                       <li class="nav-item dropdown" id="myDropdown">
-                        <a class="nav-link dropdown-toggle " data-bs-toggle="dropdown" href="#">Committees</a>
+                        <a class="nav-link dropdown-toggle " data-bs-toggle="dropdown" href="page.php">Committees</a>
                         <ul class="dropdown-menu">
-                          <li><a class="dropdown-item" href="#"> steering committee </a></li>
-                          <li><a class="dropdown-item" href="#">Organizing Committee</a></li>
-                          <li><a class="dropdown-item" href="#">technical Program Committee</a></li>
-                          <li><a class="dropdown-item" href="#">Scientific Committee</a></li>
-                          <li><a class="dropdown-item" href="#">National Advisory</a></li>
-                          <li><a class="dropdown-item" href="#">International Advisory</a></li>
-                          <li><a class="dropdown-item" href="#">Student Organising committee</a></li>
+                          <li><a class="dropdown-item" href="page.php"> steering committee </a></li>
+                          <li><a class="dropdown-item" href="page.php">Organizing Committee</a></li>
+                          <li><a class="dropdown-item" href="page.php">technical Program Committee</a></li>
+                          <li><a class="dropdown-item" href="page.php">Scientific Committee</a></li>
+                          <li><a class="dropdown-item" href="page.php">National Advisory</a></li>
+                          <li><a class="dropdown-item" href="page.php">International Advisory</a></li>
+                          <li><a class="dropdown-item" href="page.php">Student Organising committee</a></li>
                         </ul>
                       </li>
                       <li class="nav-item dropdown" id="myDropdown">
-                        <a class="nav-link dropdown-toggle " data-bs-toggle="dropdown" href="#">Registration</a>
+                        <a class="nav-link dropdown-toggle " data-bs-toggle="dropdown" href="page.php">Registration</a>
                         <ul class="dropdown-menu">
-                          <li><a class="dropdown-item" href="#"> Registration </a></li>
-                          <li><a class="dropdown-item" href="#">Registration Papers</a></li>
+                          <li><a class="dropdown-item" href="page.php"> Registration </a></li>
+                          <li><a class="dropdown-item" href="page.php">Registration Papers</a></li>
                         </ul>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="#">special session</a>
+                        <a class="nav-link" href="page.php">special session</a>
                       </li>
                       <li class="nav-item dropdown" id="myDropdown">
-                        <a class="nav-link dropdown-toggle " data-bs-toggle="dropdown" href="#">Call for papers</a>
+                        <a class="nav-link dropdown-toggle " data-bs-toggle="dropdown" href="page.php">Call for papers</a>
                         <ul class="dropdown-menu">
-                          <li> <a class="dropdown-item" href="#"> Tracks </a>
-                          <li><a class="dropdown-item" href="#">publications</a></li>
+                          <li> <a class="dropdown-item" href="page.php"> Tracks </a>
+                          <li><a class="dropdown-item" href="page.php">publications</a></li>
                         </ul>
                       </li> 
                       <li class="nav-item">
-                        <a class="nav-link" href="#">Partners</a>
+                        <a class="nav-link" href="page.php">Partners</a>
                       </li>   
 
                             <li class="nav-item dropdown" id="myDropdown">
-                        <a class="nav-link dropdown-toggle " data-bs-toggle="dropdown" href="#">Previous Conference</a>
+                        <a class="nav-link dropdown-toggle " data-bs-toggle="dropdown" href="page.php">Previous Conference</a>
                         <ul class="dropdown-menu">
-                          <li><a class="dropdown-item" href="#"> 2020 </a></li>
+                          <li><a class="dropdown-item" href="page.php"> 2020 </a></li>
                         
                         </ul>
                       </li>
 
                     </ul>
-                    <a href="#" class="btn btn-primary">Submit Papers</a>
+                    <a href="page.php" class="btn btn-primary">Submit Papers</a>
                   </div>
                 </div>
               </nav>

@@ -12,6 +12,11 @@
   background-color: #080928;
 }
 
+.mywrapper{
+  height: 100vh;
+  margin:20px;
+}
+
 .navbar-brand img {
   width: 65px;
   height: auto;
