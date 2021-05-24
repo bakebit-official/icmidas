@@ -1,0 +1,526 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+ /*********** HEADER CSS START*******
+************************************/
+.navbar-brand img {
+  width: 60px;
+  height: auto;
+  margin: 0px ;
+}
+.navbar-nav .nav-item .nav-link {
+  color: #fff !important;
+  font-size: 1.2rem;
+}
+.navbar-toggler {
+  padding: .25rem .75rem;
+  font-size: 1.25rem;
+  line-height: 1;
+  background-color: #ffffff !important;
+  border: 1px solid #ffffff !important; 
+  border-radius: .25rem;
+  transition: box-shadow .15s ease-in-out;
+}
+.collapse .btn {
+  background-color: #FB2056 !important;
+  border: none;
+  outline: none;
+  font-size: 1.2rem !important;
+  padding: 5px 10px;
+  border-radius: 20px;
+  margin:4px 0px;
+} 
+.collapse .btn:hover, .btn:focus  {
+margin:4px 0px;
+background-color: #FB2056;
+border: none;
+outline: none;
+font-size: 1.2rem !important;
+padding: 5px 10px;
+border-radius: 20px;
+}
+.collapse .btn:focus {
+-webkit-box-shadow: none !important;
+        box-shadow: none !important;
+}
+.hero {
+  width: 100%;
+  padding: 60px 0px;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.3))), url(bgimage/header-bg.jpg) no-repeat center top;
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(bgimage/header-bg.jpg) no-repeat center top;
+  background-size: cover;
+}
+.hero_content {
+  width: auto;
+  max-width: 900px;
+  min-width: 150px;
+  border-radius: 5px;
+  background-color: rgba(19, 25, 41, 0.8);
+  text-transform: uppercase;
+  font-size:.2rem ;
+}
+.hero_content h1 {
+  color: #fff;
+  padding: 8px 0px;
+  position: relative;
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+.hero_content h2 {
+  color: #fff;
+  font-weight: 600;
+  padding: 15px 5px;
+  font-size: 1.8rem;
+  line-height: 2.2rem;
+}
+.hero_content h3 {
+  color: #fff;
+  font-weight: 500;
+  padding: 5px 8px;
+  font-size: 1.8rem;
+  line-height: 2.2rem;
+}
+.hero_content .date {
+  color: #ECE644;
+  font-weight: 600;
+}
+.hero_content .address {
+  font-weight: 600;
+  font-size: 1.4rem;
+  padding: 15px 0px !important;
+}
+.hero_content .btn {
+  border: none;
+  outline: none;
+  padding: 8px 12px;
+  border-radius: 30px;
+  margin: 10px 3px 25px 3px;
+  font-size: 1.2rem !important;
+}
+
+.hero_content .btn-primary{
+  background-color:#FB2056;
+}
+.hero_content .btn-primary:hover {
+  background-color: #FB2056;
+  padding: 5px 12px;
+  border-radius: 30px;
+  margin: 10px 3px 25px 3px;
+  font-size: 1.2rem !important;
+}
+.hero_content .btn-primary:focus {
+  background-color: #FB2056;
+  padding: 5px 12px;
+  border-radius: 30px;
+  margin: 10px 3px 25px 3px;
+  font-size: 1.2rem !important;
+}
+.hero_content .btn-danger {
+  background-color: #188D16;
+}
+
+.hero_content .btn-danger:hover {
+  background-color: #188D16;
+  padding: 5px 12px;
+  border-radius: 30px;
+  margin: 10px 3px 25px 3px;
+  font-size: 1.2rem !important;
+}
+.hero_content .btn-danger:focus {
+background-color: #188D16;
+padding: 5px 12px;
+border-radius: 30px;
+margin: 10px 3px 25px 3px;
+font-size: 1.2rem !important;
+}
+/*********** HEADER CSS END*******
+************************************/
+  
+}
+ 
+ 
+ @media (min-width: 481px) and (max-width: 767px) {
+    
+/*********** HEADER CSS START*******
+************************************/
+.navbar-brand img {
+    width: 60px;
+    height: auto;
+    margin: 0px ;
+  }
+.navbar-nav .nav-item .nav-link {
+    color: #fff !important;
+    font-size: 1.2rem;
+  }
+  .navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: #ffffff !important;
+    border: 1px solid #ffffff !important; 
+    border-radius: .25rem;
+    transition: box-shadow .15s ease-in-out;
+}
+.collapse .btn {
+    background-color: #FB2056 !important;
+    border: none;
+    outline: none;
+    font-size: 1.2rem !important;
+    padding: 5px 10px;
+    border-radius: 20px;
+    margin:4px 0px;
+} 
+.collapse .btn:hover, .btn:focus  {
+  margin:4px 0px;
+  background-color: #FB2056;
+  border: none;
+  outline: none;
+  font-size: 1.2rem !important;
+  padding: 5px 10px;
+  border-radius: 20px;
+}
+.collapse .btn:focus {
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+}
+.hero {
+    width: 100%;
+    padding: 60px 0px;
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.3))), url(bgimage/header-bg.jpg) no-repeat center top;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(bgimage/header-bg.jpg) no-repeat center top;
+    background-size: cover;
+  }
+  .hero_content {
+    width: auto;
+    max-width: 900px;
+    min-width: 150px;
+    border-radius: 5px;
+    background-color: rgba(19, 25, 41, 0.8);
+    text-transform: uppercase;
+    font-size:.2rem ;
+}
+.hero_content h1 {
+    color: #fff;
+    padding: 8px 0px;
+    position: relative;
+    font-size: 1.6rem;
+    font-weight: 700;
+  }
+  .hero_content h2 {
+    color: #fff;
+    font-weight: 600;
+    padding: 15px 5px;
+    font-size: 1.6rem;
+    line-height: 2.2rem;
+  }
+  .hero_content h3 {
+    color: #fff;
+    font-weight: 500;
+    padding: 5px 8px;
+    font-size: 1.6rem;
+    line-height: 2.2rem;
+  }
+  .hero_content .date {
+    color: #ECE644;
+    font-weight: 600;
+  }
+  .hero_content .address {
+    font-weight: 600;
+    font-size: 1.4rem;
+    padding: 5px 0px !important;
+  }
+  .hero_content .btn {
+    border: none;
+    outline: none;
+    padding: 5px 12px;
+    border-radius: 30px;
+    margin: 0px 3px 12px 3px;
+    font-size: 1.2rem !important;
+  }
+  
+  .hero_content .btn-primary{
+    background-color:#FB2056;
+  }
+  .hero_content .btn-primary:hover:focus {
+    background-color: #FB2056;
+    padding: 5px 12px;
+    border-radius: 30px;
+    margin: 0px 3px 12px 3px;
+    font-size: 1.2rem !important;
+  }
+  
+  .hero_content .btn-danger {
+    background-color: #188D16;
+  }
+  
+  .hero_content .btn-danger:hover {
+    background-color: #188D16;
+    padding: 5px 12px;
+    border-radius: 30px;
+    margin: 0px 3px 12px 3px;
+    font-size: 1.2rem !important;
+  }
+.hero_content .btn-danger:focus {
+  background-color: #188D16;
+  padding: 5px 12px;
+  border-radius: 30px;
+  margin: 0px 3px 12px 3px;
+  font-size: 1.2rem !important;
+}
+
+/*********** HEADER CSS END*******
+************************************/
+
+  /************** CONTACT CSS START*********
+***************************************/
+
+.contact .contact-info .contact-head h1 {
+  font-size: 2.5rem;
+  font-weight: 900;
+  letter-spacing: .2rem;
+  text-align: center;
+  padding: .8rem 0rem;
+}
+.contact-info ul {
+list-style: none;
+padding: 0px;
+margin: 20px 15px;
+}
+.contact .contact-info ul:first-child li:nth-child(1) {
+font-size: 1.6rem;
+font-weight: 600;
+margin-bottom: 8px;
+}
+.contact .contact-info ul:last-child li:nth-child(1) {
+font-size: 1.6rem;
+font-weight: 600;
+margin-bottom: 8px;
+}
+
+/************** CONTACT CSS END*********
+***************************************/
+}
+
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+@media (min-width: 320px) and (max-width: 480px) {
+    
+/*********** HEADER CSS START*******
+************************************/
+.navbar-brand img {
+    width: 55px;
+    height: auto;
+    margin: 0px ;
+  }
+.navbar-nav .nav-item .nav-link {
+    color: #fff !important;
+    font-size: 1.2rem;
+  }
+  .navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    background-color: #ffffff !important;
+    border: 1px solid #ffffff !important; 
+    border-radius: .25rem;
+    transition: box-shadow .15s ease-in-out;
+}
+.collapse .btn {
+    background-color: #FB2056 !important;
+    border: none;
+    outline: none;
+    font-size: 1.2rem !important;
+    padding: 5px 10px;
+    border-radius: 20px;
+    margin:4px 0px;
+} 
+.collapse .btn:hover  {
+  margin:4px 0px;
+  background-color: #FB2056;
+  border: none;
+  outline: none;
+  font-size: 1.2rem !important;
+  padding: 5px 10px;
+  border-radius: 20px;
+}
+.collapse .btn:focus {
+  -webkit-box-shadow: none !important;
+          box-shadow: none !important;
+          margin:4px 0px;
+          background-color: #FB2056;
+          border: none;
+          outline: none;
+          font-size: 1.2rem !important;
+          padding: 5px 10px;
+          border-radius: 20px;
+}
+.hero {
+    width: 100%;
+    padding: 60px 0px;
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.3))), url(bgimage/header-bg.jpg) no-repeat center top;
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(bgimage/header-bg.jpg) no-repeat center top;
+    background-size: cover;
+  }
+  .hero_content {
+    width: auto;
+    max-width: 900px;
+    min-width: 150px;
+    border-radius: 5px;
+    background-color: rgba(19, 25, 41, 0.8);
+    text-transform: uppercase;
+    font-size:.2rem ;
+}
+.hero_content h1 {
+    color: #fff;
+    padding: 8px 0px;
+    position: relative;
+    font-size: 1.6rem;
+    font-weight: 700;
+  }
+  .hero_content h2 {
+    color: #fff;
+    font-weight: 600;
+    padding: 15px 5px;
+    font-size: 1.6rem;
+    line-height: 2.2rem;
+  }
+  .hero_content h3 {
+    color: #fff;
+    font-weight: 500;
+    padding: 5px 0px;
+    font-size: 1.6rem;
+    line-height: 2.2rem;
+  }
+  .hero_content .date {
+    color: #ECE644;
+    font-weight: 600;
+  }
+  .hero_content .address {
+    font-weight: 600;
+    font-size: 1.4rem;
+    padding: 5px 0px !important;
+  }
+  .hero_content .btn {
+    border: none;
+    outline: none;
+    padding: 5px 10px;
+    border-radius: 30px;
+    margin: 0px 3px 8px 3px;
+    font-size: 1.2rem !important;
+  }
+  
+  .hero_content .btn-primary{
+    background-color:#FB2056;
+  }
+  .hero_content .btn-primary:hover,.btn-primary:focus {
+    background-color: #FB2056;
+    padding: 5px 10px;
+    border-radius: 30px;
+    margin: 0px 3px 8px 3px;
+    font-size: 1.2rem !important;
+  }
+  
+  .hero_content .btn-danger {
+    background-color: #188D16;
+  }
+  
+  .hero_content .btn-danger:hover {
+    background-color: #188D16;
+    padding: 5px 10px;
+    border-radius: 30px;
+    margin: 0px 3px 8px 3px;
+    font-size: 1.2rem !important;
+  }
+.hero_content .btn-danger:focus {
+  background-color: #188D16;
+  padding: 5px 10px;
+  border-radius: 30px;
+  margin: 0px 3px 8px 3px;
+  font-size: 1.2rem !important;
+}
+/************** HEADER CSS END*********
+***************************************/
+
+
+/*CONFERENCE INFO START */
+.conference .description {
+  padding: 5px;
+}
+/*CONFERENCE INFO END */
+
+/************** DATE CSS START*********
+***************************************/
+.date .pera_box {
+  width: 100%;
+  margin: 35px 0px 20px;
+  padding: 0px 5px;
+}
+.date .pera_box ul li {
+  font-size: 1rem;
+  text-transform: capitalize;
+  font-weight: 300;
+}
+
+.date .pera_box ul li span {
+  text-transform: none;
+  font-weight: 600;
+}
+/************** DATE CSS END*********
+***************************************/
+
+/************** CONTACT CSS START*********
+***************************************/
+
+.contact .contact-info .contact-head h1 {
+    font-size: 2.5rem;
+    font-weight: 900;
+    letter-spacing: .2rem;
+    text-align: center;
+    padding: .8rem 0rem;
+}
+.contact-info ul {
+  list-style: none;
+  padding: 0px;
+  margin: 20px 15px;
+}
+.contact .contact-info ul:first-child li:nth-child(1) {
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+.contact .contact-info ul:last-child li:nth-child(1) {
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+.contact .justify-content-center {
+  justify-content: start !important;
+}
+/************** CONTACT CSS END*********
+***************************************/
+
+}
+@media all and (min-width: 992px) {
+	.dropdown-menu li{ position: relative; 	}
+	.nav-item .submenu{ 
+		display: none;
+		position: absolute;
+		left:100%; top:-7px;
+	}
+	.nav-item .submenu-left{ 
+		right:100%; left:auto;
+	}
+	.dropdown-menu > li:hover{ background-color: #f1f1f1 }
+	.dropdown-menu > li:hover > .submenu{ display: block; }
+}	
+/* ============ desktop view .end// ============ */
+
+/* ============ small devices ============ */
+@media (max-width: 991px) {
+  .dropdown-menu .dropdown-menu{
+      margin-left:0.8rem; margin-right:0.8rem; margin-bottom: .5rem;
+  }
+}

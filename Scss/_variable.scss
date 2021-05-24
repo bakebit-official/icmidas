@@ -1,0 +1,30 @@
+$nav-bg:#080928;
+$primary-color:#FB2056;
+$date:#ECE644;
+$second-button:#188D16;
+$highlighted-border:#F3C3C3;
+$text-primari:#fff;
+$text-secondary:#000;
+$nav-fontsize:1.4rem;
+$box-color:rgba( 19,25,41,.8);
+
+@mixin h2 {
+    content: '';
+    position: absolute;
+    bottom: -10%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 10%;
+    height: 3px;
+    background-color:$primary-color ;
+  }
+ @mixin h2style{
+    padding: 10px 0px;
+  text-transform: uppercase;
+  color: #fff;
+  position: relative;
+  font-size: 1.8rem;
+  font-weight: 700;
+  word-spacing: .2rem;
+  text-align: center;
+ } 
