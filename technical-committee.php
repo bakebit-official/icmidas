@@ -17,7 +17,7 @@
 
 
 
-                  <table class="table">
+                  <table class="table" style="border:1px solid black; border-collapse: collapse;">
     <tbody>
         <tr>
             <th width="127" nowrap="" valign="bottom">
@@ -56,9 +56,8 @@
         <tr>
             <td width="127" nowrap="" valign="bottom">
                 <p>
-                    <a href="https://www.juniv.edu/teachers/mskaiser">
                         M Shamim Kaiser
-                    </a>
+                    
                 </p>
             </td>
             <td width="239" nowrap="" valign="bottom">
@@ -75,9 +74,8 @@
         <tr>
             <td width="127" nowrap="" valign="bottom">
                 <p>
-                    <a href="https://www.juniv.edu/teachers/yousuf">
                         Mohammad Abu Yousuf
-                    </a>
+                
                 </p>
             </td>
             <td width="239" nowrap="" valign="bottom">
@@ -111,9 +109,8 @@
         <tr>
             <td width="127">
                 <p>
-                    <a href="https://juniv.edu/teachers/patwary">
                         Md. Fazlul Karim Patwary
-                    </a>
+                   
                 </p>
             </td>
             <td width="239" nowrap="" valign="bottom">
@@ -164,9 +161,8 @@
         <tr>
             <td width="127" nowrap="" valign="bottom">
                 <p>
-                    <a href="https://juniv.edu/teachers/akkas">
                         K M Akkas Ali
-                    </a>
+                   
                 </p>
             </td>
             <td width="239" nowrap="" valign="bottom">
@@ -234,9 +230,8 @@
         <tr>
             <td width="127" nowrap="" valign="bottom">
                 <p>
-                    <a href="https://juniv.edu/teachers/sazzad">
                         Md. Sazzadur Rahman
-                    </a>
+                   
                 </p>
             </td>
             <td width="239" nowrap="" valign="bottom">
@@ -287,9 +282,8 @@
         <tr>
             <td width="127" nowrap="" valign="bottom">
                 <p>
-                    <a href="https://www.juniv.edu/teachers/wzaman">
                         Md Whaiduzzaman
-                    </a>
+                  
                 </p>
             </td>
             <td width="239" nowrap="" valign="bottom">
@@ -306,9 +300,8 @@
         <tr>
             <td width="127" nowrap="" valign="bottom">
                 <p>
-                    <a href="https://www.juniv.edu/teachers/cedas">
                         Jugal Krishna Das
-                    </a>
+                  
                 </p>
             </td>
             <td width="239" nowrap="" valign="bottom">
@@ -325,9 +318,8 @@
         <tr>
             <td width="127" nowrap="" valign="bottom">
                 <p>
-                    <a href="https://www.juniv.edu/teachers/litonrozario">
                         Liton Jude Rozario
-                    </a>
+                   
                 </p>
             </td>
             <td width="239" nowrap="" valign="bottom">
@@ -361,9 +353,8 @@
         <tr>
             <td width="127" nowrap="" valign="bottom">
                 <p>
-                    <a href="https://www.juniv.edu/teachers/imdad">
                         Md. Imdadul Islam
-                    </a>
+                    
                 </p>
             </td>
             <td width="239" nowrap="" valign="bottom">
@@ -380,9 +371,8 @@
         <tr>
             <td width="127" nowrap="" valign="bottom">
                 <p>
-                    <a href="https://www.juniv.edu/teachers/khokan">
                         Md. Golam Moazzam
-                    </a>
+                    
                 </p>
             </td>
             <td width="239" nowrap="" valign="bottom">
@@ -416,9 +406,8 @@
         <tr>
             <td width="127" nowrap="" valign="bottom">
                 <p>
-                    <a href="https://www.juniv.edu/teachers/israt">
                         Israt Jahan
-                    </a>
+                   
                 </p>
             </td>
             <td width="239" nowrap="" valign="bottom">
@@ -775,9 +764,8 @@
         <tr>
             <td width="127" nowrap="" valign="bottom">
                 <p>
-                    <a href="https://www.juniv.edu/teachers/anupmajumder">
                         Anup Majumder
-                    </a>
+                   
                 </p>
             </td>
             <td width="239" nowrap="" valign="bottom">
@@ -794,9 +782,8 @@
         <tr>
             <td width="127">
                 <p>
-                    <a href="https://www.juniv.edu/teachers/bulbul">
                         Bulbul Ahammad
-                    </a>
+                   
                 </p>
             </td>
             <td width="239" nowrap="" valign="bottom">
@@ -881,9 +868,8 @@
         <tr>
             <td width="127">
                 <p>
-                    <a href="https://juniv.edu/teachers/mehrin.anannya">
                         Mehrin Anannya
-                    </a>
+                   
                 </p>
             </td>
             <td width="239" nowrap="" valign="bottom">
@@ -7409,9 +7395,8 @@
             </td>
             <td width="416" nowrap="" valign="bottom">
                 <p>
-                    <a href="http://www.pnu.edu.sa/en/Pages/default.aspx">
                         Princess Nourah bint Abdulrahman University
-                    </a>
+                  
                 </p>
             </td>
         </tr>
