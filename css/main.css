@@ -13,8 +13,9 @@
 }
 
 .mywrapper{
-  height: 100vh;
+  height: auto;
   margin:20px;
+  overflow: hidden;
 }
 
 .navbar-brand img {
@@ -153,27 +154,43 @@
 .hero_content h2 {
   color: #fff;
   font-weight: 600;
-  padding: 25px 0px;
+  padding: 15px 0px 5px 0px;
   font-size: 1.8rem;
   line-height: 2.8rem;
 }
 
-.hero_content h3 {
+/* .hero_content h3 {
   color: #fff;
   font-weight: 500;
   padding: 25px 25px;
   font-size: 1.8rem;
   line-height: 2.8rem;
+} */
+
+.hero_content h3 {
+  color: #fff;
+  font-weight: 500;
+  padding: 2px 0px 10px 0px;
+  font-size: 1.5rem;
 }
+
 
 .hero_content .date {
   color: #ECE644;
   font-weight: 800;
+  font-size: 3rem;
 }
 
 .hero_content .address {
   font-weight: 700;
   padding: 25px 0px !important;
+}
+
+.hero_content img{
+  height: 60px;
+  width: 150px;
+  margin: 0 auto;
+  display: block;
 }
 
 .hero_content .btn {
@@ -448,6 +465,7 @@
   padding: 15px 0px;
   list-style: none;
   text-align: center;
+  font-weight: bold;
 }
 
 .date .pera_box ul li {
@@ -589,3 +607,59 @@
 /*********************************
 **********FOTER SECTION END*****
 *********************************/
+
+
+/* new css */
+
+
+.speaker-div{
+  margin: 20px 0px;
+}
+.speaker-div img{
+  height: 150px;
+  width: 150px;
+margin: 0px auto;
+  display: block;
+}
+
+.speaker-name{
+  display:block;
+  font-size: 14px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.speaker-designation{
+  display:block;
+  font-size: 12px;
+  text-align: center;
+}
+
+.speaker-affiliation{
+  display:block;
+  font-size: 12px;
+  text-align: center;
+}
+
+.about_sub{
+  font-weight: bold;
+  color: #FB2056;
+  text-decoration: underline;
+  display: block;
+}
+
+/* Registration */
+
+.reg-content{
+  margin-top:50px;
+  /* overflow: hidden; */
+  height: auto;
+}
+
+.reg-content p{
+
+  text-align: left;
+  color: #000000;
+  font-size: 1.5rem;
+
+}

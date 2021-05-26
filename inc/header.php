@@ -35,63 +35,63 @@
                     <span class="navbar-toggler-icon"></span>
                   </button>
                   <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                    <ul class="mb-2 navbar-nav ms-auto mb-lg-0">
                       <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                       </li>
                       <li class="nav-item dropdown" id="myDropdown">
                         <a class="nav-link dropdown-toggle " data-bs-toggle="dropdown" href="page.php">About Us</a>
                         <ul class="dropdown-menu">
-                          <li><a class="dropdown-item" href="page.php"> About conference </a></li>
-                          <li><a class="dropdown-item" href="page.php">About University</a></li>
+                          <li><a class="dropdown-item" href="index.php#about"> About conference </a></li>
+                          <li><a class="dropdown-item" href="https://cou.ac.bd/" target="_blank">About University</a></li>
                         </ul>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="page.php">Speakers</a>
+                        <a class="nav-link" href="index.php#speaker">Speakers</a>
                       </li>
                       <li class="nav-item dropdown" id="myDropdown">
                         <a class="nav-link dropdown-toggle " data-bs-toggle="dropdown" href="page.php">Committees</a>
                         <ul class="dropdown-menu">
-                          <li><a class="dropdown-item" href="page.php"> steering committee </a></li>
-                          <li><a class="dropdown-item" href="page.php">Organizing Committee</a></li>
-                          <li><a class="dropdown-item" href="page.php">technical Program Committee</a></li>
-                          <li><a class="dropdown-item" href="page.php">Scientific Committee</a></li>
-                          <li><a class="dropdown-item" href="page.php">National Advisory</a></li>
-                          <li><a class="dropdown-item" href="page.php">International Advisory</a></li>
-                          <li><a class="dropdown-item" href="page.php">Student Organising committee</a></li>
+                          <li><a class="dropdown-item" href="steering-committee.php"> steering committee </a></li>
+                          <li><a class="dropdown-item" href="org-committee.php">Organizing Committee</a></li>
+                          <li><a class="dropdown-item" href="technical-committee.php">technical Program Committee</a></li>
+                          <li><a class="dropdown-item" href="scientific-committee.php">Scientific Committee</a></li>
+                          <li><a class="dropdown-item" href="national-advisory.php">National Advisory</a></li>
+                          <li><a class="dropdown-item" href="international-advisory.php">International Advisory</a></li>
+                          <li><a class="dropdown-item" href="student-org-committee.php">Student Organizing committee</a></li>
                         </ul>
                       </li>
                       <li class="nav-item dropdown" id="myDropdown">
                         <a class="nav-link dropdown-toggle " data-bs-toggle="dropdown" href="page.php">Registration</a>
                         <ul class="dropdown-menu">
-                          <li><a class="dropdown-item" href="page.php"> Registration </a></li>
-                          <li><a class="dropdown-item" href="page.php">Registration Papers</a></li>
+                          <li><a class="dropdown-item" href="registration.php"> Registration </a></li>
+                          <li><a class="dropdown-item" href="registration-paper.php">Registration Papers</a></li>
                         </ul>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="page.php">special session</a>
+                        <a class="nav-link" href="special-session.php">Special session</a>
                       </li>
                       <li class="nav-item dropdown" id="myDropdown">
                         <a class="nav-link dropdown-toggle " data-bs-toggle="dropdown" href="page.php">Call for papers</a>
                         <ul class="dropdown-menu">
-                          <li> <a class="dropdown-item" href="page.php"> Tracks </a>
-                          <li><a class="dropdown-item" href="page.php">publications</a></li>
+                          <li> <a class="dropdown-item" href="index.php#track"> Tracks </a>
+                          <li><a class="dropdown-item" href="publication.php">Publications</a></li>
                         </ul>
                       </li> 
                       <li class="nav-item">
-                        <a class="nav-link" href="page.php">Partners</a>
+                        <a class="nav-link" href="index.php#partner">Partners</a>
                       </li>   
 
                             <li class="nav-item dropdown" id="myDropdown">
                         <a class="nav-link dropdown-toggle " data-bs-toggle="dropdown" href="page.php">Previous Conference</a>
                         <ul class="dropdown-menu">
-                          <li><a class="dropdown-item" href="page.php"> 2020 </a></li>
+                          <li><a class="dropdown-item" href="https://icmidas.in/2020"> 2020 </a></li>
                         
                         </ul>
                       </li>
 
                     </ul>
-                    <a href="page.php" class="btn btn-primary">Submit Papers</a>
+                    <a href="registration.php" class="btn btn-primary">Submit Papers</a>
                   </div>
                 </div>
               </nav>
