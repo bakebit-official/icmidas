@@ -476,7 +476,7 @@ Specially Appointed Associate Professor, Osaka University,Japan
             </div>
         
             <div class="item d-flex justify-content-center align-items-center">
-              <img src="images/partner/tech/t3.jpg" alt="" class="img-fluid">
+              <img src="images/partner/tech/t3.jpg" alt="" class="img-fluid" style="height: 80px; width:200px!important">
             </div>
             
             <!-- <div class="item d-flex justify-content-center align-items-center">
@@ -541,6 +541,7 @@ Specially Appointed Associate Professor, Osaka University,Japan
       <div class="col-lg-12 col-md-12 col-xxl-12 col-12">
         <h2>Publication Partners</h2>
         <div class="speakers_slider">
+        <h3 style="text-align: center;text-decoration:none">       To be announced</h3>
           <div class="owl-carousel owl-theme">
 
    
