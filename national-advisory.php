@@ -7,7 +7,7 @@
             <div class="container mywrapper">
               <div class="row">
                 <div class="col-lg-12 col-md-12 col-xxl-12 col-12 ">
-                  <h2 class="text-center">Steering Committee</h2>
+                  <h2 class="text-center">National Advisory</h2>
                   <div class="reg-content">
                 
                   <table class="table">
