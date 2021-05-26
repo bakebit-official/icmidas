@@ -293,6 +293,7 @@
 
 .conference .description {
   padding: 20px;
+  font-size: 1.2rem;
 }
 
 .conference .description p:nth-child(odd) {
@@ -303,7 +304,7 @@
 
 .conference .description p:nth-child(even) {
   color: #FB2056;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   padding: 0px;
   font-weight: 600;
 }

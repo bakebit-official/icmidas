@@ -10,9 +10,9 @@
                   <h2 class="date">December 26-27, 2021</h2>
                   <h2>Comilla University</h2>
                   <h3>Cumilla, Bangladesh</h3>
-
+<!-- 
                   <img src="images/icon/springer.jpg" alt="" >
-                  <br>
+                  <br> -->
 
                   <a href="registraion.php" class="btn btn-primary">Registration</a>
                   <a href="index.php#important-date" class="btn btn-danger">Important Dates</a>
@@ -40,7 +40,7 @@
                </P>
 <p style="color:#fff">
 
-Department of Computer Science and Engineering, Comilla University, Cumilla, Bangladesh is organizing "International Conference on Machine Intelligence and Data Science Applications (MIDAS) 2021" on December 26-27, 2021. 
+Department of Computer Science and Engineering, Comilla University, Cumilla, Bangladesh is going to organize "International Conference on Machine Intelligence and Data Science Applications (MIDAS) 2021" on December 26-27, 2021. 
 
 MIDAS-2021 aims to provide a forum for researchers from both academia and industry to share their latest research contributions in the area of AI and Data Sciences and thus to exchange knowledge with the common goal of shaping the future. The best way to create memories is to gather and share the ideas, creativity and innovations. The conference program consists of wide range of sessions including distinguished lectures, paper presentations and poster presentations, along with prominent keynote speakers and industrial workshops. The theme for the conference is apt to the present scenario as currently world is driven by data and human interference is being limited by using various AI technologies.
 
@@ -82,7 +82,7 @@ The conference theme aims to reflect the need for research and development in or
           <div class="container">
             <div class="row">
               <div class="col-lg-12 col-md-12 col-xxl-12 col-12">
-                <h2>Event speakers</h2>
+                <h2>Keynote speakers</h2>
                 <!-- <div class="speakers_slider">
                   <div class="owl-carousel owl-theme">
 
@@ -436,8 +436,11 @@ Specially Appointed Associate Professor, Osaka University,Japan
       <div class="col-lg-12 col-md-12 col-xxl-12 col-12">
         <h2>Academic Partners</h2>
         <div class="speakers_slider">
+        <h3 style="text-align: center;text-decoration:none">       To be announced</h3>
           <div class="owl-carousel owl-theme">
-
+   
+        
+<!-- 
             <div class="item d-flex justify-content-center align-items-center">
               <img src="images/partner/academic/1.png" alt="" class="img-fluid">
             </div>
@@ -448,7 +451,7 @@ Specially Appointed Associate Professor, Osaka University,Japan
             <div class="item d-flex justify-content-center align-items-center">
               <img src="images/partner/academic/1.jpg" alt="" class="img-fluid">
             </div>
-            
+             -->
             
           </div>
         </div>
@@ -466,17 +469,17 @@ Specially Appointed Associate Professor, Osaka University,Japan
           <div class="owl-carousel owl-theme">
 
             <div class="item d-flex justify-content-center align-items-center">
-              <img src="images/partner/tech/1.jfif" alt="" class="img-fluid">
+              <img src="images/partner/tech/t1.jpg" alt="" class="img-fluid">
             </div>
             <div class="item d-flex justify-content-center align-items-center">
-              <img src="images/partner/tech/2.png" alt="" class="img-fluid">
+              <img src="images/partner/tech/t2.jpg" alt="" class="img-fluid">
             </div>
         
             <div class="item d-flex justify-content-center align-items-center">
-              <img src="images/partner/tech/3.png" alt="" class="img-fluid">
+              <img src="images/partner/tech/t3.jpg" alt="" class="img-fluid">
             </div>
             
-            <div class="item d-flex justify-content-center align-items-center">
+            <!-- <div class="item d-flex justify-content-center align-items-center">
               <img src="images/partner/tech/4.png" alt="" class="img-fluid">
             </div>
 
@@ -522,7 +525,7 @@ Specially Appointed Associate Professor, Osaka University,Japan
 
             <div class="item d-flex justify-content-center align-items-center">
               <img src="images/partner/tech/11.jpg" alt="" class="img-fluid">
-            </div>
+            </div> -->
 
             
           </div>
@@ -539,7 +542,9 @@ Specially Appointed Associate Professor, Osaka University,Japan
         <h2>Publication Partners</h2>
         <div class="speakers_slider">
           <div class="owl-carousel owl-theme">
-          <div class="item d-flex justify-content-center align-items-center">
+
+   
+          <!-- <div class="item d-flex justify-content-center align-items-center">
               <img src="images/partner/publication/1.png" alt="" class="img-fluid">
             </div>
             <div class="item d-flex justify-content-center align-items-center">
@@ -552,7 +557,7 @@ Specially Appointed Associate Professor, Osaka University,Japan
             
             <div class="item d-flex justify-content-center align-items-center">
               <img src="images/partner/publication/4.jpg" alt="" class="img-fluid">
-            </div>
+            </div> -->
             
           </div>
         </div>
