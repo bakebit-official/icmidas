@@ -10,7 +10,7 @@
                   <h2 class="text-center">Steering Committee</h2>
                   <div class="reg-content">
                     
-                  <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri","sans-serif";text-align:center;'><strong><span style='font-size:13px;font-family:"Verdana","sans-serif";color:#002060;'>Steering Committee</span></strong></p>
+              
 <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri","sans-serif";'><span style='font-size:13px;font-family:"Verdana","sans-serif";'>&nbsp;</span></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri","sans-serif";'><strong><span style='font-size:13px;font-family:"Verdana","sans-serif";'>Chief Patron:&nbsp;</span></strong></p>
 <p style='margin:0in;margin-bottom:.0001pt;font-size:15px;font-family:"Calibri","sans-serif";margin-left:.5in;'><span style='font-size:13px;font-family:"Verdana","sans-serif";'>Professor Dr. Emran Kabir Chowdhury,</span></p>
